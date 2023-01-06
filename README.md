@@ -1,4 +1,5 @@
-## Study of Influencing Factors of International Student Mobility--A case of China 
+## Study of Influencing Factors of International Student Mobility
+## --A case of China 
 
 This project aims to study the influence factors of international students' mobility with the case of international students from B&R countries studying in China. The project will study the trend of international students in China in the past two decades. It aims to analysis the influence factors of international students studying in China and predict its trend.
 
