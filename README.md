@@ -11,3 +11,10 @@ The push factors of the study including Gross tertiary enrollment ratio, tertiar
 The dependent variable of number of international students in China and the variable of the chance for international students to get scholarship will be scraped from the Concise Statistics of International Students Coming to China (PDF version). Gross tertiary enrollment ratio, tertiary student-teacher ratio and the number of outbound students of the source country will be downloaded from UNESCO database. GDP per capita, the number of R&D researchers (per million people) will be downloaded from World Bank database. The total trade volume between two countries will be downloaded from UN Comtrade, the geographical distance between two countries will be downloaded from the CEPII Database.
 
 The collection of the list of Belt and Road countries and mutual recognition of degrees will involve scraping technique. In the process of managing and analyzing indicators, data wrangling will be used. The trend of international students' mobility in China will be predicted by machine (statistical) learning.
+
+#### Trends
+![inbound trend of different study level](https://user-images.githubusercontent.com/89746479/210922241-99b83b8e-8151-4b32-a3f0-95fff0e506d9.png)
+
+![inbound trend of different continents](https://user-images.githubusercontent.com/89746479/210922281-d30c3805-f7c3-462e-ba49-e933aa26853c.png)
+
+![inbound based on countires of different HDI level](https://user-images.githubusercontent.com/89746479/210922298-15f852dc-b744-4078-a2fe-3214e779c940.png)
