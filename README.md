@@ -24,9 +24,11 @@ Reduction in AUC ROC
 ![reduction in AUC ROC](https://user-images.githubusercontent.com/89746479/211184030-1e07082b-2bc8-475a-828f-b59fe4bd55d2.png)
 
 Partical dependence chart 
+![partial dependence](https://user-images.githubusercontent.com/89746479/211183950-b16379da-bb50-40ab-8e5c-61f8ffe32921.png)
+
 ![partial dependence2](https://user-images.githubusercontent.com/89746479/211184011-7352a9a8-4ef2-4d76-a864-7286f4f98735.png)
 
-![partial dependence](https://user-images.githubusercontent.com/89746479/211183950-b16379da-bb50-40ab-8e5c-61f8ffe32921.png)
+
 
 
 
