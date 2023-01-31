@@ -13,6 +13,8 @@ The dependent variable of number of international students in China and the vari
 The collection of the list of Belt and Road countries and mutual recognition of degrees will involve scraping technique. In the process of managing and analyzing indicators, data wrangling will be used. The trend of international students' mobility in China will be predicted by machine (statistical) learning.
 
 #### Trends
+![image](https://user-images.githubusercontent.com/89746479/215655995-d653cf25-e40d-4258-8069-07335da28fcc.png)
+
 ![inbound trend of different study level](https://user-images.githubusercontent.com/89746479/210922241-99b83b8e-8151-4b32-a3f0-95fff0e506d9.png)
 
 ![inbound trend of different continents](https://user-images.githubusercontent.com/89746479/210922281-d30c3805-f7c3-462e-ba49-e933aa26853c.png)
