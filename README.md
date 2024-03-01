@@ -1,4 +1,4 @@
-## Analysis of Determinants Influencing International Student Mobility: A Focus on China
+## Machine Learning Analysis of International Student Mobility: A Case Study of China
 This research project is designed to examine the determinants influencing the mobility of international students, with a specific focus on students from Belt and Road Initiative (B&R) countries studying in China. The objective is to analyze trends in the mobility of international students in China over the past two decades, identify the influencing factors, and forecast future trends.
 
 #### Theoretical Framework: Push-Pull Theory
