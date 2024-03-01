@@ -20,6 +20,13 @@ This study will also incorporate web scraping techniques to gather data on the l
 
 ![inbound based on countires of different HDI level](https://user-images.githubusercontent.com/89746479/210922298-15f852dc-b744-4078-a2fe-3214e779c940.png)
 
+#### Results
+The initial phase of the research involved executing multiple models, focusing on data from Asian and African countries due to their data richness. The preliminary results, indicated by high Mean Squared Error (MSE) values, suggested that the selected features were insufficiently predictive within the analytical framework. The homogeneity within continental datasets—reflecting similarities in geographical proximity to China and socio-economic conditions—limited the model’s learning potential. To enhance the model’s predictive capability, I subsequently integrated all available observations into the model training process.
+
+Among various models tested, the K-Nearest Neighbors (KNN) model, with a specification of 10 neighbors, emerged as the most effective. This model, when applied to the test dataset, achieved an R-squared value of 0.79 and an MSE of 0.682. This indicates a substantial degree of accuracy, with an average deviation of 0.682 units between the predicted and actual values, underscoring the effectiveness of the selected variables in forecasting the influx of international students to China.
+
+The Random Forest classifier, with a maximum depth of 6, stood out in the classification model category. This model demonstrated excellent performance on the test data, achieving an accuracy score of 0.97 and a Receiver Operating Characteristic Area Under the Curve (ROC AUC) score of 0.99. An analysis of the feature importance, as illustrated in Figure 6, revealed that the percentage of scholarships, the number of outbound students from a given country, and bilateral trade value were pivotal in predicting the dependent variable. Notably, the scholarship percentage exhibited a significant decrease in influence within the 0.2 to 0.4 range, whereas the impact of the number of outbound students notably increased within the 8 to 8.8 range. In comparison, the student-teacher ratio’s influence remained relatively stable. Figure 8 highlighted a synergistic interaction among these three key predictors, enhancing the model’s predictive power for international student mobility to China.
+
 #### Evaluation
 Reduction in AUC ROC 
 ![reduction in AUC ROC](https://user-images.githubusercontent.com/89746479/211184030-1e07082b-2bc8-475a-828f-b59fe4bd55d2.png)
